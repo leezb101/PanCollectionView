@@ -1,0 +1,2 @@
+# PanCollectionView
+拖拽CollectionView的demo
